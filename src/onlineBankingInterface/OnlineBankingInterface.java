@@ -4,6 +4,7 @@
  */
 package onlineBankingInterface;
 
-public class OnlineBankingInterface {
+public interface OnlineBankingInterface {
+    void showBalance();
 
 }
