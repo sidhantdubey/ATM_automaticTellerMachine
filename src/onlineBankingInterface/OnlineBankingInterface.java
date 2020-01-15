@@ -7,4 +7,11 @@ package onlineBankingInterface;
 public interface OnlineBankingInterface {
     void showBalance();
 
+    double withrawlMoney();
+
+    double depositMoney();
+
+    int changePass();
+
+    boolean pinVerification();
 }
